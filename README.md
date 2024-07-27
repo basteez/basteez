@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/_basteez" target="blank"><img src="https://img.shields.io/twitter/follow/_basteez?logo=twitter&style=for-the-badge" alt="_basteez" /></a> </p>
 
-- 🌱 I’m currently learning **clojure**
+- 🌱 I’m currently learning **golang**
 
 - 📝 I occasionally write articles on [https://bstz.it](https://bstz.it)
 
-- 💬 Ask me about **quarkus, java**
+- 💬 Ask me about **java, quarkus, spring boot, k8s**
 
 - 📫 How to reach me **tiz.basile@gmail.com**
 
