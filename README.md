@@ -49,20 +49,11 @@
   <!-- EDIT:HERO-TAGLINE — Line 1 is the hero tagline (≤60 chars); adjunct lines follow. Separator: ";". -->
   <a href="https://bstz.it">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=0EA5E9&center=true&vCenter=true&width=620&lines=Senior+Software+Engineer%2C+clean+code+%26+AI+enthusiast;Java+%C2%B7+Quarkus+%C2%B7+Spring+Boot+%C2%B7+Kubernetes;Writes+at+bstz.it"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1500&color=0EA5E9&center=true&vCenter=true&width=620&lines=Senior+Software+Engineer;Clean+code+%26+AI+enthusiast;Java+%C2%B7+Quarkus+%C2%B7+Spring+Boot+%C2%B7+Kubernetes;Writes+at+bstz.it"
       alt="Senior Software Engineer · Clean code & AI enthusiast · Java · Quarkus · Spring Boot · Writes at bstz.it"
     />
   </a>
   <!-- END:HERO-TAGLINE -->
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=basteez&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10"
-      alt="GitHub achievement badges — stars, commits, pull requests, issues, reviews"
-    />
-  </a>
 </p>
 
 ### About
