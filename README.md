@@ -7,10 +7,17 @@
 
   - The neofetch hero card is a pair of self-hosted SVGs:
       assets/neofetch-dark.svg  +  assets/neofetch-light.svg
-    Do NOT hand-edit the SVGs. Change the ASCII cup, the info fields, or
-    the colors in scripts/gen_neofetch.py, then regenerate:
+    Do NOT hand-edit the SVGs. To change the info fields/sections or the
+    colors, edit scripts/gen_neofetch.py, then regenerate:
         python3 scripts/gen_neofetch.py
     (Serving from the repo means no third-party card service can rot.)
+    - The ASCII portrait lives in assets/portrait.txt (one row per line).
+      Regenerate it from a photo with a brightness→character ramp, or edit
+      the text by hand.
+    - The "GitHub Stats" numbers come from assets/stats.json, refreshed by
+      scripts/update_stats.py via the "Refresh neofetch card stats" GitHub
+      Action. Add a read-only PAT as the STATS_TOKEN repo secret for
+      private-inclusive numbers; otherwise public-only stats are used.
 
   - EDIT:PROMPT-LINES     — Typed-command lines above the card
                             (readme-typing-svg). Keep the shell-prompt
@@ -44,8 +51,8 @@
     <source media="(prefers-color-scheme: light)" srcset="./assets/neofetch-light.svg" />
     <img
       src="./assets/neofetch-light.svg"
-      alt="neofetch-style card. tiziano@bstz — OS: JVM, Kubernetes, Docker. Host: Senior Software Engineer. Kernel: Java, Quarkus, Spring Boot. Packages: Kafka, PostgreSQL. Shell: clean code & AI enthusiast. Interests: dev ergonomics, tooling, AI. Location: Italy. Terminal: bstz.it. Contact: LinkedIn, dev.to, Stack Overflow, Email."
-      width="820"
+      alt="neofetch-style card with an ASCII portrait. tiziano@bstz — OS: JVM, Kubernetes, Docker. Host: Senior Software Engineer. Kernel: Java, Quarkus, Spring Boot. Languages: Java, Quarkus, Spring, Kafka, PostgreSQL. Platform: Kubernetes, Docker. Focus: clean code, dev ergonomics, AI-assisted development. Location: Italy. Contact: Email, LinkedIn, dev.to, Stack Overflow, Writing at bstz.it. Plus a GitHub Stats section (repos, stars, commits, contributed to, followers)."
+      width="880"
     />
   </picture>
 </p>
