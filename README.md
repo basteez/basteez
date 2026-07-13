@@ -47,10 +47,10 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/neofetch-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/neofetch-light.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/neofetch-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/neofetch-light.svg?v=2" />
     <img
-      src="./assets/neofetch-light.svg"
+      src="./assets/neofetch-light.svg?v=2"
       alt="neofetch-style card with an ASCII portrait. tiziano@bstz — OS: JVM, Kubernetes, Docker. Host: Senior Software Engineer. Kernel: Java, Quarkus, Spring Boot. Languages: Java, Quarkus, Spring, Kafka, PostgreSQL. Platform: Kubernetes, Docker. Focus: clean code, dev ergonomics, AI-assisted development. Location: Italy. Contact: Email, LinkedIn, dev.to, Stack Overflow, Writing at bstz.it. Plus a GitHub Stats section (repos, stars, commits, contributed to, followers)."
       width="880"
     />
