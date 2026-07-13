@@ -1,0 +1,53 @@
+name: Refresh neofetch card stats
+
+on:
+  schedule:
+    - cron: "0 4 * * *"   # daily at 04:00 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/update_stats.py
+      - scripts/gen_neofetch.py
+      - assets/portrait.txt
+
+permissions:
+  contents: write
+
+concurrency:
+  group: neofetch-stats
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Fetch GitHub stats
+        env:
+          # Add a read-only PAT as the STATS_TOKEN secret for private-inclusive
+          # numbers (repo + read:user scope). Falls back to GITHUB_TOKEN, which
+          # yields public-only stats.
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/update_stats.py
+
+      - name: Regenerate neofetch SVG cards
+        run: python3 scripts/gen_neofetch.py
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain assets/stats.json assets/neofetch-dark.svg assets/neofetch-light.svg)" ]; then
+            git add assets/stats.json assets/neofetch-dark.svg assets/neofetch-light.svg
+            git commit -m "chore: refresh neofetch card stats [skip ci]"
+            git push
+          else
+            echo "No stats changes."
+          fi
