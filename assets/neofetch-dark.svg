@@ -1,59 +1,81 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="999" height="657" viewBox="0 0 999 657" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" role="img" aria-label="neofetch-style profile card for tiziano@bstz">
-<rect x="6" y="6" width="987" height="645" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="999" height="783" viewBox="0 0 999 783" font-family="'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" role="img" aria-label="neofetch-style profile card for tiziano@bstz">
+<rect x="6" y="6" width="987" height="771" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
 <path d="M6 18 A12 12 0 0 1 18 6 H981 A12 12 0 0 1 993 18 V40 H6 Z" fill="#161b22"/>
 <line x1="6" y1="40" x2="993" y2="40" stroke="#30363d" stroke-width="1"/>
 <circle cx="30" cy="23" r="7" fill="#ff5f56"/>
 <circle cx="52" cy="23" r="7" fill="#ffbd2e"/>
 <circle cx="74" cy="23" r="7" fill="#27c93f"/>
 <text x="499.5" y="28" text-anchor="middle" font-size="13" fill="#6e7681">tiziano@bstz — neofetch</text>
-<text x="26" y="78" xml:space="preserve" font-size="14" fill="#E0A458">                    ####*+++=</text>
-<text x="26" y="99" xml:space="preserve" font-size="14" fill="#E0A458">              @%%@%######***+*****+</text>
-<text x="26" y="120" xml:space="preserve" font-size="14" fill="#E0A458">           ##%%###***++==++++*+++**+*+</text>
-<text x="26" y="141" xml:space="preserve" font-size="14" fill="#E0A458">         **+**+-::         ...:=+++*****</text>
-<text x="26" y="162" xml:space="preserve" font-size="14" fill="#E0A458">       ##*+-:::  .    .         .-+*######</text>
-<text x="26" y="183" xml:space="preserve" font-size="14" fill="#E0A458">     ##*+=. .:::----::---::..     :=*#######</text>
-<text x="26" y="204" xml:space="preserve" font-size="14" fill="#E0A458">    ##**=:...--+#%@@@@%%@%#+=-:.    :+#######</text>
-<text x="26" y="225" xml:space="preserve" font-size="14" fill="#E0A458">   #**+=-:-=*##%@@@@@@@@@@@@@@@%*=.   =#######</text>
-<text x="26" y="246" xml:space="preserve" font-size="14" fill="#E0A458">  ***++==+%@@@@@@@@@@@@@@@@@@@@@@%+.  .*#%%%#%#</text>
-<text x="26" y="267" xml:space="preserve" font-size="14" fill="#E0A458"> ***++===+#@@@@@@@@@@@@@@@@@@@@@%#*=. :#%%%%%%##</text>
-<text x="26" y="288" xml:space="preserve" font-size="14" fill="#E0A458"> #***-:-:-+%%%@@@@@@@@@@@@@@@@@@@#++: :*%%%%%%##</text>
-<text x="26" y="309" xml:space="preserve" font-size="14" fill="#E0A458">###++-:..:=*%@%**++==--=%@@@@@@%###+. :*#%%%%%%#</text>
-<text x="26" y="330" xml:space="preserve" font-size="14" fill="#E0A458">##*+=::...=%%%=:=+*+=---=%@@@%=.  ..  .*#%%%###%</text>
-<text x="26" y="351" xml:space="preserve" font-size="14" fill="#E0A458">##+-.    :#@@#=++===-==+++@@+-:--::.  :*##%%#%%%</text>
-<text x="26" y="372" xml:space="preserve" font-size="14" fill="#E0A458">##+.:...:*%@@%*=:-: .*-=*+@@-:-. ...  -+#%%%%%%%</text>
-<text x="26" y="393" xml:space="preserve" font-size="14" fill="#E0A458">%%#++:  :*#@@@@@%*****+#@@@@=-=-::. . .+#%%%%###</text>
-<text x="26" y="414" xml:space="preserve" font-size="14" fill="#E0A458">###**+-..+#%@@@@@@%%##@@@@@@*:===-... .+*#######</text>
-<text x="26" y="435" xml:space="preserve" font-size="14" fill="#E0A458"> ###*##. =##%@@@@@@@@@@@%@@@%-#%#*-:. =*******##</text>
-<text x="26" y="456" xml:space="preserve" font-size="14" fill="#E0A458"> #####+  .-+%@@@@@@@@@%%%@@@@+*@@%=.  =+******##</text>
-<text x="26" y="477" xml:space="preserve" font-size="14" fill="#E0A458">  ###*+:  .:*@@@@@@@@@#=::+*+-#@@%=. .=+++*****</text>
-<text x="26" y="498" xml:space="preserve" font-size="14" fill="#E0A458">   +***=   .-+#%%%%@@%*-:... .=##+-  -=++++*+*</text>
-<text x="26" y="519" xml:space="preserve" font-size="14" fill="#E0A458">    ++++:     .-=-::...:.      ...   -====+++</text>
-<text x="26" y="540" xml:space="preserve" font-size="14" fill="#E0A458">     +++-      .:  .:::-=--.         .:=====</text>
-<text x="26" y="561" xml:space="preserve" font-size="14" fill="#E0A458">       --:        -++=:----:...        .:=</text>
-<text x="26" y="582" xml:space="preserve" font-size="14" fill="#E0A458">         +-       .=*=       .</text>
-<text x="26" y="603" xml:space="preserve" font-size="14" fill="#E0A458">           -.      :-:...</text>
-<text x="26" y="624" xml:space="preserve" font-size="14" fill="#E0A458">              .       ..: .</text>
-<text x="469.20000000000005" y="78" xml:space="preserve" font-size="14"><tspan fill="#E0A458">tiziano@bstz</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">-----------------------------------------------</tspan></text>
-<text x="469.20000000000005" y="99" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">OS</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">............................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#c9d1d9">JVM · Kubernetes · Docker</tspan></text>
-<text x="469.20000000000005" y="120" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">Host</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">...........................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#c9d1d9">Senior Software Engineer</tspan></text>
-<text x="469.20000000000005" y="141" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">Kernel</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">.....................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#c9d1d9">Java · Quarkus · Spring Boot</tspan></text>
-<text x="469.20000000000005" y="162" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">IDE</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">.............................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#c9d1d9">IntelliJ IDEA · VS Code</tspan></text>
-<text x="469.20000000000005" y="204" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">Languages.Backend</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">...............</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#c9d1d9">Java · Quarkus · Spring</tspan></text>
-<text x="469.20000000000005" y="225" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">Languages.Data</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">.......................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#c9d1d9">Kafka · PostgreSQL</tspan></text>
-<text x="469.20000000000005" y="246" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">Platform</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">............................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#c9d1d9">Kubernetes · Docker</tspan></text>
-<text x="469.20000000000005" y="288" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">Focus.Craft</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">.................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#c9d1d9">clean code · dev ergonomics</tspan></text>
-<text x="469.20000000000005" y="309" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">Focus.Now</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">.......................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#c9d1d9">AI-assisted development</tspan></text>
-<text x="469.20000000000005" y="330" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">Location</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">..........................................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#c9d1d9">Italy</tspan></text>
-<text x="469.20000000000005" y="372" xml:space="preserve" font-size="14"><tspan fill="#6e7681">- </tspan><tspan fill="#E0A458">Contact</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">--------------------------------------------------</tspan></text>
-<text x="469.20000000000005" y="393" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">Email</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">..............................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#c9d1d9">tiz.basile@gmail.com</tspan></text>
-<text x="469.20000000000005" y="414" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">LinkedIn</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">.................................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#c9d1d9">tiziano-basile</tspan></text>
-<text x="469.20000000000005" y="435" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">dev.to</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">..........................................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#c9d1d9">basteez</tspan></text>
-<text x="469.20000000000005" y="456" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">Stack Overflow</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">............................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#c9d1d9">users/1895405</tspan></text>
-<text x="469.20000000000005" y="477" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">Writing</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">.........................................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#c9d1d9">bstz.it</tspan></text>
-<text x="469.20000000000005" y="519" xml:space="preserve" font-size="14"><tspan fill="#6e7681">- </tspan><tspan fill="#E0A458">GitHub Stats</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">---------------------------------------------</tspan></text>
-<text x="469.20000000000005" y="540" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">Repos</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">.................................................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#3fb950">—</tspan></text>
-<text x="469.20000000000005" y="561" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">Stars</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">.................................................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#3fb950">—</tspan></text>
-<text x="469.20000000000005" y="582" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">Commits</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">...............................................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#3fb950">—</tspan></text>
-<text x="469.20000000000005" y="603" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">Contributed to</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">........................................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#3fb950">—</tspan></text>
-<text x="469.20000000000005" y="624" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">Followers</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">.............................................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#3fb950">—</tspan></text>
+<text x="26" y="78" xml:space="preserve" font-size="14" fill="#E0A458">              .....................</text>
+<text x="26" y="99" xml:space="preserve" font-size="14" fill="#E0A458">           ..........-~--.............</text>
+<text x="26" y="120" xml:space="preserve" font-size="14" fill="#E0A458">         ........:=*#@@@@%%***=:........</text>
+<text x="26" y="141" xml:space="preserve" font-size="14" fill="#E0A458">       ......:~*%@@@@@@@@@@@@@@%#+~:......</text>
+<text x="26" y="162" xml:space="preserve" font-size="14" fill="#E0A458">     ......-*@@@@@@@@@@@@@@@@@@@@%%#=-......</text>
+<text x="26" y="183" xml:space="preserve" font-size="14" fill="#E0A458">    .....:*@@@@@@@@@@@@%@@@@@@@@@@@@%%*:.....</text>
+<text x="26" y="204" xml:space="preserve" font-size="14" fill="#E0A458">   .....:%@@@@@@%%%#%#*=+**+=+++##%%%%#~......</text>
+<text x="26" y="225" xml:space="preserve" font-size="14" fill="#E0A458">  ......#@@@@*+~~---~-:::::..:::-~===*#*:......</text>
+<text x="26" y="246" xml:space="preserve" font-size="14" fill="#E0A458"> ......~@@%*~:::.................::::~**~.......</text>
+<text x="26" y="267" xml:space="preserve" font-size="14" fill="#E0A458">......-%%=~-::.....................:-~+++-......</text>
+<text x="26" y="288" xml:space="preserve" font-size="14" fill="#E0A458">.....:+@*-::::::.::..........::.::::-=+*+=:.....</text>
+<text x="26" y="309" xml:space="preserve" font-size="14" fill="#E0A458">.....:+@#~::::::................::::-=*##*+~....</text>
+<text x="26" y="330" xml:space="preserve" font-size="14" fill="#E0A458">......~@%=--::::............::--===~--~#%#*+:...</text>
+<text x="26" y="351" xml:space="preserve" font-size="14" fill="#E0A458">.....:+@#==~-----~-....:~*###%####*=-:-*@%#=:...</text>
+<text x="26" y="372" xml:space="preserve" font-size="14" fill="#E0A458">.....-*@#+%%%%%@@%*=--~+###%%#**+===+=~%@@#.....</text>
+<text x="26" y="393" xml:space="preserve" font-size="14" fill="#E0A458">...:--:%%*#*#%@@@@@%#++#@%###@@%*+~~~#@%+%+.....</text>
+<text x="26" y="414" xml:space="preserve" font-size="14" fill="#E0A458">...::-#@+~-+*=#@#*%%%%#@#=*+=++===~~~+%-~#-.....</text>
+<text x="26" y="435" xml:space="preserve" font-size="14" fill="#E0A458">.....~%@~-:~++=~~=+*@=~*%=~~~~-~~----=+.~+:.....</text>
+<text x="26" y="456" xml:space="preserve" font-size="14" fill="#E0A458">.......#=-~~~~-:::-#*..:*@=:.::::::-~*-:++......</text>
+<text x="26" y="477" xml:space="preserve" font-size="14" fill="#E0A458">........**=~-:.::-+%=:.--+%*~~~~~~~==-:-**......</text>
+<text x="26" y="498" xml:space="preserve" font-size="14" fill="#E0A458">.........##++====+==~:.:~-~=~~----::.:=+*-......</text>
+<text x="26" y="519" xml:space="preserve" font-size="14" fill="#E0A458">.........-%~--::::-~-...~=~~-:....:::~#@~.......</text>
+<text x="26" y="540" xml:space="preserve" font-size="14" fill="#E0A458">..........=%~::::::~*+==#%%#=--:::::=#@*........</text>
+<text x="26" y="561" xml:space="preserve" font-size="14" fill="#E0A458">...........#@=::-==%@@@@@@@@%%%#=:-=#@%:........</text>
+<text x="26" y="582" xml:space="preserve" font-size="14" fill="#E0A458">...........:%@+=%@%@@@@#####%#*##~+%@@~.........</text>
+<text x="26" y="603" xml:space="preserve" font-size="14" fill="#E0A458"> ...........:%@##%+***+=~~===~~*++#%@~.::.......</text>
+<text x="26" y="624" xml:space="preserve" font-size="14" fill="#E0A458">  .........~=#@@%#=~~=+**###=~+***#@+::-+#~....</text>
+<text x="26" y="645" xml:space="preserve" font-size="14" fill="#E0A458">   ....-=*%@@@##@@#++#@@@@@%***#%@@+-::..%@@%*</text>
+<text x="26" y="666" xml:space="preserve" font-size="14" fill="#E0A458">    *#%@@@@@@@%=*%@@@%@@@%##%@@@@#~::::.+@@@@</text>
+<text x="26" y="687" xml:space="preserve" font-size="14" fill="#E0A458">     @@@@@@@@@@*~~*@@@@@@%@@@@@%+::::::+@@@@</text>
+<text x="26" y="708" xml:space="preserve" font-size="14" fill="#E0A458">       @@@@@@@@@#=~~+%%%%%%#*+~-:::::~%@@@</text>
+<text x="26" y="729" xml:space="preserve" font-size="14" fill="#E0A458">         @@@@@@@@#+=~~~~~~~---::--:-*@@@</text>
+<text x="26" y="750" xml:space="preserve" font-size="14" fill="#E0A458">           @@@@@@@%*==~~-~-------~+%@@</text>
+<text x="469.20000000000005" y="99" xml:space="preserve" font-size="14"><tspan fill="#E0A458">tiziano@bstz</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">-----------------------------------------------</tspan></text>
+<text x="469.20000000000005" y="120" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">OS</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">............................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#c9d1d9">JVM · Kubernetes · Docker</tspan></text>
+<text x="469.20000000000005" y="141" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">Host</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">...........................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#c9d1d9">Senior Software Engineer</tspan></text>
+<text x="469.20000000000005" y="162" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">Kernel</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">.....................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#c9d1d9">Java · Quarkus · Spring Boot</tspan></text>
+<text x="469.20000000000005" y="183" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">IDE</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">.............................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#c9d1d9">IntelliJ IDEA · VS Code</tspan></text>
+<text x="469.20000000000005" y="225" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">Languages.Backend</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">...............</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#c9d1d9">Java · Quarkus · Spring</tspan></text>
+<text x="469.20000000000005" y="246" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">Languages.Data</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">.......................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#c9d1d9">Kafka · PostgreSQL</tspan></text>
+<text x="469.20000000000005" y="267" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">Platform</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">............................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#c9d1d9">Kubernetes · Docker</tspan></text>
+<text x="469.20000000000005" y="309" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">Focus.Craft</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">.................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#c9d1d9">clean code · dev ergonomics</tspan></text>
+<text x="469.20000000000005" y="330" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">Focus.Now</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">.......................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#c9d1d9">AI-assisted development</tspan></text>
+<text x="469.20000000000005" y="351" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">Location</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">..........................................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#c9d1d9">Italy</tspan></text>
+<text x="469.20000000000005" y="393" xml:space="preserve" font-size="14"><tspan fill="#6e7681">- </tspan><tspan fill="#E0A458">Contact</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">--------------------------------------------------</tspan></text>
+<text x="469.20000000000005" y="414" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">Email</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">..............................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#c9d1d9">tiz.basile@gmail.com</tspan></text>
+<text x="469.20000000000005" y="435" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">LinkedIn</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">.................................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#c9d1d9">tiziano-basile</tspan></text>
+<text x="469.20000000000005" y="456" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">dev.to</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">..........................................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#c9d1d9">basteez</tspan></text>
+<text x="469.20000000000005" y="477" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">Stack Overflow</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">............................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#c9d1d9">users/1895405</tspan></text>
+<text x="469.20000000000005" y="498" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">Writing</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">.........................................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#c9d1d9">bstz.it</tspan></text>
+<text x="469.20000000000005" y="540" xml:space="preserve" font-size="14"><tspan fill="#6e7681">- </tspan><tspan fill="#E0A458">GitHub Stats</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">---------------------------------------------</tspan></text>
+<text x="469.20000000000005" y="561" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">Repos</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">.................................................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#3fb950">—</tspan></text>
+<text x="469.20000000000005" y="582" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">Stars</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">.................................................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#3fb950">—</tspan></text>
+<text x="469.20000000000005" y="603" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">Commits</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">...............................................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#3fb950">—</tspan></text>
+<text x="469.20000000000005" y="624" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">Contributed to</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">........................................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#3fb950">—</tspan></text>
+<text x="469.20000000000005" y="645" xml:space="preserve" font-size="14"><tspan fill="#6e7681">. </tspan><tspan fill="#58A6FF">Followers</tspan><tspan fill="#58A6FF">:</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#6e7681">.............................................</tspan><tspan fill="#6e7681"> </tspan><tspan fill="#3fb950">—</tspan></text>
+<rect x="469.20000000000005" y="652" width="18" height="18" rx="3" fill="#484f58" stroke="#30363d" stroke-width="0.75"/>
+<rect x="491.20000000000005" y="652" width="18" height="18" rx="3" fill="#ff7b72" stroke="#30363d" stroke-width="0.75"/>
+<rect x="513.2" y="652" width="18" height="18" rx="3" fill="#3fb950" stroke="#30363d" stroke-width="0.75"/>
+<rect x="535.2" y="652" width="18" height="18" rx="3" fill="#d29922" stroke="#30363d" stroke-width="0.75"/>
+<rect x="557.2" y="652" width="18" height="18" rx="3" fill="#58a6ff" stroke="#30363d" stroke-width="0.75"/>
+<rect x="579.2" y="652" width="18" height="18" rx="3" fill="#bc8cff" stroke="#30363d" stroke-width="0.75"/>
+<rect x="601.2" y="652" width="18" height="18" rx="3" fill="#39c5cf" stroke="#30363d" stroke-width="0.75"/>
+<rect x="623.2" y="652" width="18" height="18" rx="3" fill="#b1bac4" stroke="#30363d" stroke-width="0.75"/>
+<rect x="469.20000000000005" y="674" width="18" height="18" rx="3" fill="#6e7681" stroke="#30363d" stroke-width="0.75"/>
+<rect x="491.20000000000005" y="674" width="18" height="18" rx="3" fill="#ffa198" stroke="#30363d" stroke-width="0.75"/>
+<rect x="513.2" y="674" width="18" height="18" rx="3" fill="#56d364" stroke="#30363d" stroke-width="0.75"/>
+<rect x="535.2" y="674" width="18" height="18" rx="3" fill="#e3b341" stroke="#30363d" stroke-width="0.75"/>
+<rect x="557.2" y="674" width="18" height="18" rx="3" fill="#79c0ff" stroke="#30363d" stroke-width="0.75"/>
+<rect x="579.2" y="674" width="18" height="18" rx="3" fill="#d2a8ff" stroke="#30363d" stroke-width="0.75"/>
+<rect x="601.2" y="674" width="18" height="18" rx="3" fill="#56d4dd" stroke="#30363d" stroke-width="0.75"/>
+<rect x="623.2" y="674" width="18" height="18" rx="3" fill="#f0f6fc" stroke="#30363d" stroke-width="0.75"/>
 </svg>

@@ -75,11 +75,15 @@ THEMES = {
         window="#0d1117", titlebar="#161b22", border="#30363d",
         fg="#c9d1d9", dim="#6e7681", portrait="#E0A458",
         header="#E0A458", key="#58A6FF", section="#E0A458", stat="#3fb950",
+        palette=["#484f58", "#ff7b72", "#3fb950", "#d29922", "#58a6ff", "#bc8cff", "#39c5cf", "#b1bac4",
+                 "#6e7681", "#ffa198", "#56d364", "#e3b341", "#79c0ff", "#d2a8ff", "#56d4dd", "#f0f6fc"],
     ),
     "light": dict(
         window="#ffffff", titlebar="#f6f8fa", border="#d0d7de",
         fg="#24292f", dim="#8c959f", portrait="#B4763B",
         header="#B4763B", key="#0969DA", section="#B4763B", stat="#1a7f37",
+        palette=["#6e7781", "#cf222e", "#1a7f37", "#9a6700", "#0969da", "#8250df", "#1b7c83", "#6e7781",
+                 "#8c959f", "#ff8182", "#2da44e", "#bf8700", "#54aeff", "#a475f9", "#3192aa", "#d0d7de"],
     ),
 }
 
@@ -195,9 +199,15 @@ def build(name, t):
     info_x = PAD + port_px + gap
     W = int(info_x + info_px + PAD)
 
-    n_lines = max(len(portrait), len(rows))
+    # info block = text rows + palette strip (gap row + 2 palette rows)
+    info_rows = len(rows) + 3
+    n_lines = max(len(portrait), info_rows)
     content_top = TITLE_H + 24
     H = int(content_top + n_lines * LH + PAD)
+
+    # vertically centre the shorter of the two columns
+    port_off = max(0, (n_lines - len(portrait)) // 2)
+    info_off = max(0, (n_lines - info_rows) // 2)
 
     e = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" '
          f'viewBox="0 0 {W} {H}" font-family="{MONO}" role="img" '
@@ -216,16 +226,29 @@ def build(name, t):
 
     # portrait
     for i, line in enumerate(portrait):
-        y = content_top + i * LH + FS
+        y = content_top + (i + port_off) * LH + FS
         e.append(f'<text x="{content_x0}" y="{y}" xml:space="preserve" font-size="{FS}" '
                  f'fill="{t["portrait"]}">{escape(line)}</text>')
 
     # info rows
     for i, segs in enumerate(rows):
-        y = content_top + i * LH + FS
+        y = content_top + (i + info_off) * LH + FS
         line = render_text_line(info_x, y, segs)
         if line:
             e.append(line)
+
+    # ANSI colour palette strip (two rows of 8) below the info rows
+    sq = 18
+    sgap = 4
+    px0 = info_x
+    py1 = content_top + (len(rows) + info_off) * LH + FS - sq + 4
+    py2 = py1 + sq + sgap
+    for ri, py in enumerate((py1, py2)):
+        for ci in range(8):
+            idx = ri * 8 + ci
+            x = px0 + ci * (sq + sgap)
+            e.append(f'<rect x="{x}" y="{py}" width="{sq}" height="{sq}" rx="3" '
+                     f'fill="{t["palette"][idx]}" stroke="{t["border"]}" stroke-width="0.75"/>')
 
     e.append("</svg>")
     return "\n".join(e)
