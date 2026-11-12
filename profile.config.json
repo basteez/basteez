@@ -1,0 +1,47 @@
+{
+  "name": ["TIZIANO", "BASILE"],
+  "role": "SENIOR SOFTWARE ENGINEER",
+  "stack": ["JAVA", "QUARKUS", "SPRING BOOT", "K8S", "AI"],
+  "location": "ITALY",
+  "about": "I'm a software engineer from Italy who spends most days on the JVM: Java, Quarkus, Spring Boot, shipped on Kubernetes. I care about clean code, developer ergonomics, and tooling that makes teams faster. Lately I'm writing about how AI changes the craft, and building small games on the side.",
+
+  "targets": [
+    {
+      "repo": "the-debugger-0x3-wild-shift",
+      "label": "THE DEBUGGER 0x03: WILD SHIFT",
+      "tag": "GODOT",
+      "wip": true,
+      "url": "https://basteez.itch.io/wild-shift"
+    },
+    { "repo": "AndroidDrawableFactory", "label": "ANDROID DRAWABLES" },
+    { "repo": "mumble-speech", "tag": "RUST" },
+    { "repo": "jsf-autoreload" },
+    {
+      "repo": "hugo-to-devto-action",
+      "label": "HUGO TO DEV.TO",
+      "tag": "GITHUB ACTION"
+    },
+    { "repo": "agent-skills", "tag": "AI" }
+  ],
+
+  "posts": {
+    "count": 3,
+    "one_per_series": true,
+    "all_posts_url": "https://bstz.it"
+  },
+
+  "contacts": [
+    {
+      "label": "LINKEDIN",
+      "url": "https://linkedin.com/in/tiziano-basile-264681147"
+    },
+    { "label": "DEV.TO", "url": "https://dev.to/basteez" },
+    {
+      "label": "STACK OVERFLOW",
+      "url": "https://stackoverflow.com/users/1895405"
+    },
+    { "label": "ITCH.IO", "url": "https://basteez.itch.io" },
+    { "label": "BLOG", "url": "https://bstz.it" },
+    { "label": "EMAIL", "url": "mailto:tiz.basile@gmail.com" }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "stats": {
+    "repos": 33,
+    "stars": 542,
+    "commits": 1689,
+    "followers": 108
+  },
+  "repos": {
+    "the-debugger-0x3-wild-shift": {
+      "stars": 0,
+      "description": "A top-down action boss rush where you shift your weapon's bits mid-fight. Made for GitHub Game Off 2026 (theme: SHIFT) — https://itch.io/jam/game-off-2026",
+      "url": "https://github.com/basteez/the-debugger-0x3-wild-shift",
+      "language": "GDScript"
+    },
+    "AndroidDrawableFactory": {
+      "stars": 501,
+      "description": "A Java Application to create appropriate Drawable resources for your Android application",
+      "url": "https://github.com/basteez/AndroidDrawableFactory",
+      "language": "Java"
+    },
+    "mumble-speech": {
+      "stars": 15,
+      "description": "Video-game mumble speech synthesis (Undertale, Banjo-Kazooie, Animal Crossing styles). Rust core with web, Godot, Unity and C bindings.",
+      "url": "https://github.com/basteez/mumble-speech",
+      "language": "JavaScript"
+    },
+    "jsf-autoreload": {
+      "stars": 9,
+      "description": "maven plugin to enable hot reload on jsf projects",
+      "url": "https://github.com/basteez/jsf-autoreload",
+      "language": "Java"
+    },
+    "hugo-to-devto-action": {
+      "stars": 0,
+      "description": "Composite GitHub Action that mirrors new Hugo posts to dev.to as drafts",
+      "url": "https://github.com/basteez/hugo-to-devto-action",
+      "language": "Python"
+    },
+    "agent-skills": {
+      "stars": 1,
+      "description": "",
+      "url": "https://github.com/basteez/agent-skills",
+      "language": "Shell"
+    }
+  },
+  "posts": [
+    {
+      "title": "Wild Shift Devlog #2: It's always the semicolon",
+      "url": "https://bstz.it/p/wild-shift-devlog-2/",
+      "date": "2026-11-12"
+    },
+    {
+      "title": "Wild Shift Devlog #1: Your weapon is a byte",
+      "url": "https://bstz.it/p/wild-shift-devlog-1/",
+      "date": "2026-11-10"
+    },
+    {
+      "title": "The NeuroDEVergent",
+      "url": "https://bstz.it/p/the-neurodevergent/",
+      "date": "2026-10-11"
+    },
+    {
+      "title": "Yes, you still need to know how to code",
+      "url": "https://bstz.it/p/yes-you-still-need-to-know-how-to-code/",
+      "date": "2026-09-14"
+    },
+    {
+      "title": "A BMAD workflow, end to end: shipping a feature the spec-driven way",
+      "url": "https://bstz.it/p/a-bmad-workflow-end-to-end-shipping-a-feature-the-spec-driven-way/",
+      "date": "2026-08-06"
+    },
+    {
+      "title": "The year I stopped writing code for fun",
+      "url": "https://bstz.it/p/the-year-i-stopped-writing-code-for-fun/",
+      "date": "2026-07-31"
+    },
+    {
+      "title": "Crossposting without the copy-paste: a GitHub Action from Hugo to dev.to",
+      "url": "https://bstz.it/p/crossposting-without-the-copy-paste-a-github-action-from-hugo-to-dev.to/",
+      "date": "2026-04-18"
+    },
+    {
+      "title": "BMAD in action: building TODOdoro",
+      "url": "https://bstz.it/p/bmad-in-action-building-tododoro/",
+      "date": "2026-03-26"
+    },
+    {
+      "title": "BMAD: meet the crew",
+      "url": "https://bstz.it/p/bmad-meet-the-crew/",
+      "date": "2026-03-26"
+    },
+    {
+      "title": "Don't be mad, BMAD instead",
+      "url": "https://bstz.it/p/dont-be-mad-bmad-instead/",
+      "date": "2026-03-26"
+    },
+    {
+      "title": "AI and the Craft: are we extending ourselves, or outsourcing ourselves?",
+      "url": "https://bstz.it/p/ai-and-the-craft-are-we-extending-ourselves-or-outsourcing-ourselves/",
+      "date": "2026-03-03"
+    },
+    {
+      "title": "Adding Interactive Cockpit Controls to Grav-Sync",
+      "url": "https://bstz.it/p/adding-interactive-cockpit-controls-to-grav-sync/",
+      "date": "2025-11-09"
+    },
+    {
+      "title": "DevLog: Adding Dynamic Waves and Animated Sprites to Grav Sync",
+      "url": "https://bstz.it/p/devlog-adding-dynamic-waves-and-animated-sprites-to-grav-sync/",
+      "date": "2025-11-08"
+    },
+    {
+      "title": "DevLog #1 GravSync",
+      "url": "https://bstz.it/p/devlog-%231-gravsync/",
+      "date": "2025-11-02"
+    },
+    {
+      "title": "Code Smells: Learn to Sniff Them Out",
+      "url": "https://bstz.it/p/code-smells-learn-to-sniff-them-out/",
+      "date": "2024-11-22"
+    },
+    {
+      "title": "An In-Depth Look at Project Lombok: A Follow-Up 🚀",
+      "url": "https://bstz.it/p/an-in-depth-look-at-project-lombok-a-follow-up/",
+      "date": "2024-11-20"
+    },
+    {
+      "title": "How to Use SonarQube and SonarScanner Locally to Level Up Your Code Quality",
+      "url": "https://bstz.it/p/how-to-use-sonarqube-and-sonarscanner-locally-to-level-up-your-code-quality/",
+      "date": "2024-11-13"
+    },
+    {
+      "title": "Design Patterns: Singleton",
+      "url": "https://bstz.it/p/design-patterns-singleton/",
+      "date": "2024-09-04"
+    },
+    {
+      "title": "Singleton pattern thread-safety in java",
+      "url": "https://bstz.it/p/singleton-pattern-thread-safety-in-java/",
+      "date": "2024-09-04"
+    },
+    {
+      "title": "Design Patterns: Facade",
+      "url": "https://bstz.it/p/design-patterns-facade/",
+      "date": "2024-09-03"
+    }
+  ]
+}
