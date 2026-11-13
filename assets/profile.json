@@ -2,8 +2,8 @@
   "stats": {
     "repos": 33,
     "stars": 542,
-    "commits": 662,
-    "followers": 108
+    "commits": 687,
+    "followers": 109
   },
   "repos": {
     "the-debugger-0x3-wild-shift": {
@@ -44,6 +44,11 @@
     }
   },
   "posts": [
+    {
+      "title": "Wild Shift Devlog #3: SIGSEGV incoming",
+      "url": "https://bstz.it/p/wild-shift-devlog-3/",
+      "date": "2026-11-13"
+    },
     {
       "title": "Wild Shift Devlog #2: It's always the semicolon",
       "url": "https://bstz.it/p/wild-shift-devlog-2/",
@@ -138,11 +143,6 @@
       "title": "Singleton pattern thread-safety in java",
       "url": "https://bstz.it/p/singleton-pattern-thread-safety-in-java/",
       "date": "2024-09-04"
-    },
-    {
-      "title": "Design Patterns: Facade",
-      "url": "https://bstz.it/p/design-patterns-facade/",
-      "date": "2024-09-03"
     }
   ]
 }
