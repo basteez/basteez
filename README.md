@@ -5,7 +5,7 @@
   (the "Refresh profile" GitHub Action also does this daily with fresh stats/posts)
 -->
 
-<p align="center"><img src="assets/stage/hero.svg" width="100%" alt="Tiziano Basile, Senior Software Engineer. 687 commits, 543 stars, 33 public repos." /></p>
+<p align="center"><img src="assets/stage/hero.svg" width="100%" alt="Tiziano Basile, Senior Software Engineer. 692 commits, 545 stars, 35 public repos." /></p>
 
 <p align="center"><img src="assets/stage/about.svg" width="100%" alt="I'm a software engineer from Italy who spends most days on the JVM: Java, Quarkus, Spring Boot, shipped on Kubernetes. I care about clean code, developer ergonomics, and tooling that makes teams faster. Lately I'm writing about how AI changes the craft, and building small games on the side." /></p>
 
