@@ -2,7 +2,7 @@
   "stats": {
     "repos": 35,
     "stars": 545,
-    "commits": 692,
+    "commits": 703,
     "followers": 125
   },
   "repos": {
@@ -44,6 +44,11 @@
     }
   },
   "posts": [
+    {
+      "title": "Wild Shift Devlog #4: Don't lose your run",
+      "url": "https://bstz.it/p/wild-shift-devlog-4/",
+      "date": "2026-11-14"
+    },
     {
       "title": "Wild Shift Devlog #3: SIGSEGV incoming",
       "url": "https://bstz.it/p/wild-shift-devlog-3/",
@@ -137,11 +142,6 @@
     {
       "title": "Design Patterns: Singleton",
       "url": "https://bstz.it/p/design-patterns-singleton/",
-      "date": "2024-09-04"
-    },
-    {
-      "title": "Singleton pattern thread-safety in java",
-      "url": "https://bstz.it/p/singleton-pattern-thread-safety-in-java/",
       "date": "2024-09-04"
     }
   ]
