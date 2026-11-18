@@ -5,7 +5,7 @@
   (the "Refresh profile" GitHub Action also does this daily with fresh stats/posts)
 -->
 
-<p align="center"><img src="assets/stage/hero.svg" width="100%" alt="Tiziano Basile, Senior Software Engineer. 713 commits, 545 stars, 35 public repos." /></p>
+<p align="center"><img src="assets/stage/hero.svg" width="100%" alt="Tiziano Basile, Senior Software Engineer. 742 commits, 545 stars, 35 public repos." /></p>
 
 <p align="center"><img src="assets/stage/about.svg" width="100%" alt="I'm a software engineer from Italy who spends most days on the JVM: Java, Quarkus, Spring Boot, shipped on Kubernetes. I care about clean code, developer ergonomics, and tooling that makes teams faster. Lately I'm writing about how AI changes the craft, and building small games on the side." /></p>
 
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center"><img src="assets/stage/h-intel.svg" width="100%" alt="New intel: latest posts" /><br>
-<a href="https://bstz.it/p/wild-shift-devlog-4/"><img src="assets/stage/post-0.svg" width="100%" alt="Wild Shift Devlog #4: Don't lose your run" /></a><br>
+<a href="https://bstz.it/p/wild-shift-devlog-5/"><img src="assets/stage/post-0.svg" width="100%" alt="Wild Shift Devlog #5: Someone else played it" /></a><br>
 <a href="https://bstz.it/p/the-neurodevergent/"><img src="assets/stage/post-1.svg" width="100%" alt="The NeuroDEVergent" /></a><br>
 <a href="https://bstz.it/p/yes-you-still-need-to-know-how-to-code/"><img src="assets/stage/post-2.svg" width="100%" alt="Yes, you still need to know how to code" /></a><br>
 <a href="https://bstz.it"><img src="assets/stage/all-posts.svg" width="100%" alt="All posts on bstz.it" /></a>

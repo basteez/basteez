@@ -2,7 +2,7 @@
   "stats": {
     "repos": 35,
     "stars": 545,
-    "commits": 713,
+    "commits": 742,
     "followers": 125
   },
   "repos": {
@@ -44,6 +44,16 @@
     }
   },
   "posts": [
+    {
+      "title": "Wild Shift Devlog #5: Someone else played it",
+      "url": "https://bstz.it/p/wild-shift-devlog-5/",
+      "date": "2026-11-17"
+    },
+    {
+      "title": "Wild Shift Devlog #6: I couldn't find my own @",
+      "url": "https://bstz.it/p/wild-shift-devlog-6/",
+      "date": "2026-11-17"
+    },
     {
       "title": "Wild Shift Devlog #4: Don't lose your run",
       "url": "https://bstz.it/p/wild-shift-devlog-4/",
@@ -133,16 +143,6 @@
       "title": "An In-Depth Look at Project Lombok: A Follow-Up 🚀",
       "url": "https://bstz.it/p/an-in-depth-look-at-project-lombok-a-follow-up/",
       "date": "2024-11-20"
-    },
-    {
-      "title": "How to Use SonarQube and SonarScanner Locally to Level Up Your Code Quality",
-      "url": "https://bstz.it/p/how-to-use-sonarqube-and-sonarscanner-locally-to-level-up-your-code-quality/",
-      "date": "2024-11-13"
-    },
-    {
-      "title": "Design Patterns: Singleton",
-      "url": "https://bstz.it/p/design-patterns-singleton/",
-      "date": "2024-09-04"
     }
   ]
 }
