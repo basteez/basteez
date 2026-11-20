@@ -1,8 +1,8 @@
 {
   "stats": {
-    "repos": 34,
-    "stars": 545,
-    "commits": 758,
+    "repos": 35,
+    "stars": 543,
+    "commits": 762,
     "followers": 125
   },
   "repos": {
@@ -13,7 +13,7 @@
       "language": "GDScript"
     },
     "AndroidDrawableFactory": {
-      "stars": 501,
+      "stars": 499,
       "description": "A Java Application to create appropriate Drawable resources for your Android application",
       "url": "https://github.com/basteez/AndroidDrawableFactory",
       "language": "Java"
