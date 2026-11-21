@@ -1,13 +1,13 @@
 {
   "stats": {
     "repos": 35,
-    "stars": 543,
-    "commits": 762,
-    "followers": 125
+    "stars": 547,
+    "commits": 777,
+    "followers": 126
   },
   "repos": {
     "the-debugger-0x3-wild-shift": {
-      "stars": 0,
+      "stars": 1,
       "description": "A top-down action boss rush where you shift your weapon's bits mid-fight. Made for GitHub Game Off 2026 (theme: SHIFT) — https://itch.io/jam/game-off-2026",
       "url": "https://github.com/basteez/the-debugger-0x3-wild-shift",
       "language": "GDScript"
