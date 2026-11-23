@@ -2,8 +2,8 @@
   "stats": {
     "repos": 35,
     "stars": 547,
-    "commits": 807,
-    "followers": 126
+    "commits": 837,
+    "followers": 127
   },
   "repos": {
     "the-debugger-0x3-wild-shift": {
@@ -44,6 +44,16 @@
     }
   },
   "posts": [
+    {
+      "title": "Bonooru Devlog #1: Measuring an ocarina before writing any firmware",
+      "url": "https://bstz.it/p/bonooru-devlog-1/",
+      "date": "2026-11-22"
+    },
+    {
+      "title": "Bonooru Devlog #0: Teaching a Switch 2 to play the ocarina",
+      "url": "https://bstz.it/p/bonooru-devlog-0/",
+      "date": "2026-11-21"
+    },
     {
       "title": "Wild Shift Devlog #5: Someone else played it",
       "url": "https://bstz.it/p/wild-shift-devlog-5/",
@@ -133,16 +143,6 @@
       "title": "DevLog #1 GravSync",
       "url": "https://bstz.it/p/devlog-%231-gravsync/",
       "date": "2025-11-02"
-    },
-    {
-      "title": "Code Smells: Learn to Sniff Them Out",
-      "url": "https://bstz.it/p/code-smells-learn-to-sniff-them-out/",
-      "date": "2024-11-22"
-    },
-    {
-      "title": "An In-Depth Look at Project Lombok: A Follow-Up 🚀",
-      "url": "https://bstz.it/p/an-in-depth-look-at-project-lombok-a-follow-up/",
-      "date": "2024-11-20"
     }
   ]
 }
