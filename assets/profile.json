@@ -2,7 +2,7 @@
   "stats": {
     "repos": 35,
     "stars": 547,
-    "commits": 837,
+    "commits": 860,
     "followers": 127
   },
   "repos": {
@@ -44,6 +44,11 @@
     }
   },
   "posts": [
+    {
+      "title": "Bonooru Devlog #2: My own firmware, as a Pro Controller",
+      "url": "https://bstz.it/p/bonooru-devlog-2/",
+      "date": "2026-11-23"
+    },
     {
       "title": "Bonooru Devlog #1: Measuring an ocarina before writing any firmware",
       "url": "https://bstz.it/p/bonooru-devlog-1/",
@@ -138,11 +143,6 @@
       "title": "DevLog: Adding Dynamic Waves and Animated Sprites to Grav Sync",
       "url": "https://bstz.it/p/devlog-adding-dynamic-waves-and-animated-sprites-to-grav-sync/",
       "date": "2025-11-08"
-    },
-    {
-      "title": "DevLog #1 GravSync",
-      "url": "https://bstz.it/p/devlog-%231-gravsync/",
-      "date": "2025-11-02"
     }
   ]
 }
