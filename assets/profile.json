@@ -1,8 +1,8 @@
 {
   "stats": {
     "repos": 35,
-    "stars": 547,
-    "commits": 860,
+    "stars": 548,
+    "commits": 869,
     "followers": 127
   },
   "repos": {
@@ -19,7 +19,7 @@
       "language": "Java"
     },
     "mumble-speech": {
-      "stars": 15,
+      "stars": 16,
       "description": "Video-game mumble speech synthesis (Undertale, Banjo-Kazooie, Animal Crossing styles). Rust core with web, Godot, Unity and C bindings.",
       "url": "https://github.com/basteez/mumble-speech",
       "language": "JavaScript"
