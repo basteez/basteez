@@ -2,21 +2,21 @@
   "stats": {
     "repos": 35,
     "stars": 549,
-    "commits": 870,
+    "commits": 873,
     "followers": 127
   },
   "repos": {
-    "the-debugger-0x3-wild-shift": {
-      "stars": 1,
-      "description": "A top-down action boss rush where you shift your weapon's bits mid-fight. Made for GitHub Game Off 2026 (theme: SHIFT) — https://itch.io/jam/game-off-2026",
-      "url": "https://github.com/basteez/the-debugger-0x3-wild-shift",
-      "language": "GDScript"
-    },
     "bonooru": {
       "stars": 2,
       "description": "Plays melodies on the in-game ocarina by emulating a wired Switch 2 controller (2x RP2040-Zero + Rust desktop app). Unofficial fan project.",
       "url": "https://github.com/basteez/bonooru",
       "language": "C"
+    },
+    "the-debugger-0x3-wild-shift": {
+      "stars": 1,
+      "description": "A top-down action boss rush where you shift your weapon's bits mid-fight. Made for GitHub Game Off 2026 (theme: SHIFT) — https://itch.io/jam/game-off-2026",
+      "url": "https://github.com/basteez/the-debugger-0x3-wild-shift",
+      "language": "GDScript"
     },
     "mumble-speech": {
       "stars": 17,

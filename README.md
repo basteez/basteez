@@ -5,13 +5,13 @@
   (the "Refresh profile" GitHub Action also does this daily with fresh stats/posts)
 -->
 
-<p align="center"><img src="assets/stage/hero.svg" width="100%" alt="Tiziano Basile, Senior Software Engineer. 870 commits, 549 stars, 35 public repos." /></p>
+<p align="center"><img src="assets/stage/hero.svg" width="100%" alt="Tiziano Basile, Senior Software Engineer. 873 commits, 549 stars, 35 public repos." /></p>
 
 <p align="center"><img src="assets/stage/about.svg" width="100%" alt="I'm a software engineer from Italy who spends most days on the JVM: Java, Quarkus, Spring Boot, shipped on Kubernetes. I care about clean code, developer ergonomics, and tooling that makes teams faster. Lately I'm writing about how AI changes the craft, and building small games on the side." /></p>
 
 <p align="center"><img src="assets/stage/h-targets.svg" width="100%" alt="Select target" /><br>
-<a href="https://basteez.itch.io/wild-shift"><img src="assets/stage/target-0.svg" width="100%" alt="THE DEBUGGER 0x03: WILD SHIFT: A top-down action boss rush where you shift your weapon's bits mid-fight. Made for GitHub Game Off 2026 (theme: SHIFT) — https://itch.io/jam/game-off-2026" /></a><br>
-<a href="https://github.com/basteez/bonooru"><img src="assets/stage/target-1.svg" width="100%" alt="BONOORU: Plays melodies on the in-game ocarina by emulating a wired Switch 2 controller (2x RP2040-Zero + Rust desktop app). Unofficial fan project." /></a><br>
+<a href="https://github.com/basteez/bonooru"><img src="assets/stage/target-0.svg" width="100%" alt="BONOORU: Plays melodies on the in-game ocarina by emulating a wired Switch 2 controller (2x RP2040-Zero + Rust desktop app). Unofficial fan project." /></a><br>
+<a href="https://basteez.itch.io/wild-shift"><img src="assets/stage/target-1.svg" width="100%" alt="THE DEBUGGER 0x03: WILD SHIFT: A top-down action boss rush where you shift your weapon's bits mid-fight. Made for GitHub Game Off 2026 (theme: SHIFT) — https://itch.io/jam/game-off-2026" /></a><br>
 <a href="https://github.com/basteez/mumble-speech"><img src="assets/stage/target-2.svg" width="100%" alt="MUMBLE-SPEECH: Video-game mumble speech synthesis (Undertale, Banjo-Kazooie, Animal Crossing styles). Rust core with web, Godot, Unity and C bindings." /></a><br>
 <a href="https://github.com/basteez/jsf-autoreload"><img src="assets/stage/target-3.svg" width="100%" alt="JSF-AUTORELOAD: maven plugin to enable hot reload on jsf projects" /></a><br>
 <a href="https://github.com/basteez/hugo-to-devto-action"><img src="assets/stage/target-4.svg" width="100%" alt="HUGO TO DEV.TO: Composite GitHub Action that mirrors new Hugo posts to dev.to as drafts" /></a><br>
