@@ -11,6 +11,7 @@
       "label": "BONOORU",
       "tag": "EMBEDDED + RUST GUI",
       "wip": true
+    },
     {
       "repo": "the-debugger-0x3-wild-shift",
       "label": "THE DEBUGGER 0x03: WILD SHIFT",
