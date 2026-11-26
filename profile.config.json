@@ -8,7 +8,7 @@
   "targets": [
     { 
       "repo": "bonooru",
-      "label": "BONOORU" },
+      "label": "BONOORU",
       "tag": "EMBEDDED + RUST GUI",
       "wip": true
     {
