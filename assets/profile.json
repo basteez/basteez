@@ -1,8 +1,8 @@
 {
   "stats": {
     "repos": 35,
-    "stars": 548,
-    "commits": 869,
+    "stars": 549,
+    "commits": 870,
     "followers": 127
   },
   "repos": {
@@ -12,14 +12,14 @@
       "url": "https://github.com/basteez/the-debugger-0x3-wild-shift",
       "language": "GDScript"
     },
-    "AndroidDrawableFactory": {
-      "stars": 499,
-      "description": "A Java Application to create appropriate Drawable resources for your Android application",
-      "url": "https://github.com/basteez/AndroidDrawableFactory",
-      "language": "Java"
+    "bonooru": {
+      "stars": 2,
+      "description": "Plays melodies on the in-game ocarina by emulating a wired Switch 2 controller (2x RP2040-Zero + Rust desktop app). Unofficial fan project.",
+      "url": "https://github.com/basteez/bonooru",
+      "language": "C"
     },
     "mumble-speech": {
-      "stars": 16,
+      "stars": 17,
       "description": "Video-game mumble speech synthesis (Undertale, Banjo-Kazooie, Animal Crossing styles). Rust core with web, Godot, Unity and C bindings.",
       "url": "https://github.com/basteez/mumble-speech",
       "language": "JavaScript"
