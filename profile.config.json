@@ -13,7 +13,7 @@
       "wip": true,
       "url": "https://basteez.itch.io/wild-shift"
     },
-    { "repo": "AndroidDrawableFactory", "label": "ANDROID DRAWABLES" },
+    { "repo": "bonooru", "label": "BONOORU" },
     { "repo": "mumble-speech", "tag": "RUST" },
     { "repo": "jsf-autoreload" },
     {
