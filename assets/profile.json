@@ -2,7 +2,7 @@
   "stats": {
     "repos": 35,
     "stars": 549,
-    "commits": 873,
+    "commits": 986,
     "followers": 127
   },
   "repos": {
@@ -10,7 +10,7 @@
       "stars": 2,
       "description": "Plays melodies on the in-game ocarina by emulating a wired Switch 2 controller (2x RP2040-Zero + Rust desktop app). Unofficial fan project.",
       "url": "https://github.com/basteez/bonooru",
-      "language": "C"
+      "language": "Rust"
     },
     "the-debugger-0x3-wild-shift": {
       "stars": 1,
@@ -44,6 +44,11 @@
     }
   },
   "posts": [
+    {
+      "title": "Bonooru Devlog #3: The PC takes the wheel",
+      "url": "https://bstz.it/p/bonooru-devlog-3/",
+      "date": "2026-11-26"
+    },
     {
       "title": "Bonooru Devlog #2: My own firmware, as a Pro Controller",
       "url": "https://bstz.it/p/bonooru-devlog-2/",
@@ -138,11 +143,6 @@
       "title": "Adding Interactive Cockpit Controls to Grav-Sync",
       "url": "https://bstz.it/p/adding-interactive-cockpit-controls-to-grav-sync/",
       "date": "2025-11-09"
-    },
-    {
-      "title": "DevLog: Adding Dynamic Waves and Animated Sprites to Grav Sync",
-      "url": "https://bstz.it/p/devlog-adding-dynamic-waves-and-animated-sprites-to-grav-sync/",
-      "date": "2025-11-08"
     }
   ]
 }
