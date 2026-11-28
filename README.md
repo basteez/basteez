@@ -5,7 +5,7 @@
   (the "Refresh profile" GitHub Action also does this daily with fresh stats/posts)
 -->
 
-<p align="center"><img src="assets/stage/hero.svg" width="100%" alt="Tiziano Basile, Senior Software Engineer. 986 commits, 549 stars, 35 public repos." /></p>
+<p align="center"><img src="assets/stage/hero.svg" width="100%" alt="Tiziano Basile, Senior Software Engineer. 1,025 commits, 550 stars, 35 public repos." /></p>
 
 <p align="center"><img src="assets/stage/about.svg" width="100%" alt="I'm a software engineer from Italy who spends most days on the JVM: Java, Quarkus, Spring Boot, shipped on Kubernetes. I care about clean code, developer ergonomics, and tooling that makes teams faster. Lately I'm writing about how AI changes the craft, and building small games on the side." /></p>
 
@@ -19,7 +19,7 @@
 </p>
 
 <p align="center"><img src="assets/stage/h-intel.svg" width="100%" alt="New intel: latest posts" /><br>
-<a href="https://bstz.it/p/bonooru-devlog-3/"><img src="assets/stage/post-0.svg" width="100%" alt="Bonooru Devlog #3: The PC takes the wheel" /></a><br>
+<a href="https://bstz.it/p/bonooru-devlog-4/"><img src="assets/stage/post-0.svg" width="100%" alt="Bonooru Devlog #4: A window, three lights and a gamepad" /></a><br>
 <a href="https://bstz.it/p/wild-shift-devlog-5/"><img src="assets/stage/post-1.svg" width="100%" alt="Wild Shift Devlog #5: Someone else played it" /></a><br>
 <a href="https://bstz.it/p/the-neurodevergent/"><img src="assets/stage/post-2.svg" width="100%" alt="The NeuroDEVergent" /></a><br>
 <a href="https://bstz.it"><img src="assets/stage/all-posts.svg" width="100%" alt="All posts on bstz.it" /></a>

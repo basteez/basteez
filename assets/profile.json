@@ -1,9 +1,9 @@
 {
   "stats": {
     "repos": 35,
-    "stars": 549,
-    "commits": 986,
-    "followers": 127
+    "stars": 550,
+    "commits": 1025,
+    "followers": 128
   },
   "repos": {
     "bonooru": {
@@ -19,7 +19,7 @@
       "language": "GDScript"
     },
     "mumble-speech": {
-      "stars": 17,
+      "stars": 18,
       "description": "Video-game mumble speech synthesis (Undertale, Banjo-Kazooie, Animal Crossing styles). Rust core with web, Godot, Unity and C bindings.",
       "url": "https://github.com/basteez/mumble-speech",
       "language": "JavaScript"
@@ -44,6 +44,11 @@
     }
   },
   "posts": [
+    {
+      "title": "Bonooru Devlog #4: A window, three lights and a gamepad",
+      "url": "https://bstz.it/p/bonooru-devlog-4/",
+      "date": "2026-11-28"
+    },
     {
       "title": "Bonooru Devlog #3: The PC takes the wheel",
       "url": "https://bstz.it/p/bonooru-devlog-3/",
@@ -138,11 +143,6 @@
       "title": "AI and the Craft: are we extending ourselves, or outsourcing ourselves?",
       "url": "https://bstz.it/p/ai-and-the-craft-are-we-extending-ourselves-or-outsourcing-ourselves/",
       "date": "2026-03-03"
-    },
-    {
-      "title": "Adding Interactive Cockpit Controls to Grav-Sync",
-      "url": "https://bstz.it/p/adding-interactive-cockpit-controls-to-grav-sync/",
-      "date": "2025-11-09"
     }
   ]
 }
